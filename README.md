@@ -16,3 +16,6 @@ notebooks: esta carpeta contiene los notebooks utilizados para el procesamiento 
 2.2. 2_analisis.ipynb: este notebook contiene los distintos análisis realizados con los datos ya limpios.
 
 2.3. 3_reporte.ipynb: este notebook corresponde al informe final. Describe el contexto general de los datos, el proceso de limpieza, los modelos probados y el modelo escogido, el chequeo de supuestos y la interpretación del modelo. Por último, se presentan las conclusiones y limitaciones finales.
+
+2.1 Carpeta output:
+2-2 3_reporte.html: El html del notebook 3_reporte.ipynb ejecutado completo luego de haber limpiado el kernel y los outputs previos.
