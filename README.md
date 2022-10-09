@@ -3,13 +3,13 @@ Integrante: Leandro Aroca
 
 # Estructura de archivos y carpetas
 
-data: en esta carpeta se encuentran las bases de datos utilizadas en el proyecto
+Data: en esta carpeta se encuentran las bases de datos utilizadas en el proyecto
 
 1.1. raw: esta carpeta contiene las bases de datos sin procesar
 
 1.2. processed: esta carpeta contiene las bases de datos procesadas
 
-notebooks: esta carpeta contiene los notebooks utilizados para el procesamiento de las bases de datos y el análisis
+Notebooks: esta carpeta contiene los notebooks utilizados para el procesamiento de las bases de datos y el análisis
 
 2.1 1_limpieza.ipynb: este archivo contiene el procedimiento para la limpieza de los datos, previo al análisis
 
