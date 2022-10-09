@@ -1,6 +1,10 @@
 # CapstonProject_Analisis_de_datos
 Integrante: Leandro Aroca
 
+# Descripción del proyecto
+
+La Organización Mundial de la Salud ha estimado que cada año se producen 12 millones de muertes en todo el mundo debido a enfermedades del corazón. La mitad de las muertes en los Estados Unidos y otros países desarrollados se deben a enfermedades cardiovasculares. El pronóstico temprano de las enfermedades cardiovasculares puede ayudar en la toma de decisiones sobre cambios en el estilo de vida en pacientes de alto riesgo y a su vez reducir las complicaciones. Esta repositorio tiene la intención de identificar los factores de riesgo más relevantes de la enfermedad cardíaca, así como predecir el riesgo general mediante la regresión logística.
+
 # Estructura de archivos y carpetas
 
 Data: en esta carpeta se encuentran las bases de datos utilizadas en el proyecto
