@@ -5,9 +5,9 @@ Integrante: Leandro Aroca
 
 data: en esta carpeta se encuentran las bases de datos utilizadas en el proyecto
 
-1.1. raw: esta carpeta contiene las bases de datos sin procesar, tal como fueron descargados
+1.1. raw: esta carpeta contiene las bases de datos sin procesar
 
-1.2. processed: esta carpeta contiene las bases de datos procesadas, previo al análisis
+1.2. processed: esta carpeta contiene las bases de datos procesadas
 
 notebooks: esta carpeta contiene los notebooks utilizados para el procesamiento de las bases de datos y el análisis
 
